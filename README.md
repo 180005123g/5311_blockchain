@@ -45,5 +45,6 @@ Everything, espacially:
 
 ## Tasks
 - 10 mins Demo (3/12/2018)
+- Powerpoint for presentation (3/12/2018)
 - 2-5 pages group report (10/12/2018)
 - 1 page individual report (10/12/2018) 
